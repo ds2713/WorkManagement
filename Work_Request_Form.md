@@ -52,7 +52,7 @@ Explicitly list all the deliverables required for this work package in the follo
 
 | Deliverable name | Type                                   | Explanation                               | Quantity | Due date        | Work time estimate (hours / days) | Start date | Duration of work completed (hours / days) | Finish date | Hand-over signed off |  |
 |------------------|----------------------------------------|-------------------------------------------|----------|-----------------|-----------------------------------|------------|-------------------------------------------|-------------|----------------------|--|
-| e.g. PCB v1.0    | e.g. Hardware, Software, Testing, Data | e.g. SCS units required for Rogue 6 build | e.g. 4   | e.g. 1 Oct 2026 | e.g. 2 days                       |            |                                           |             |                      |  |
+| e.g. PCB v1.0    | e.g. Hardware, Software, Testing, Data | e.g. PCB units required for demo build | e.g. 4   | e.g. 1 Oct 2026 | e.g. 2 days                       |            |                                           |             |                      |  |
 
 # Interfaces
 
@@ -80,7 +80,7 @@ We will plan suitable update meetings / milestones together and note them here.
 
 | Milestone number | Target (what are we going to talk about / see) | Date | Completed? |
 |------------------|------------------------------------------------|------|------------|
-| 1                | e.g. demonstration of SCS charge               |      |            |
+| 1                | e.g. demonstration of cell charge               |      |            |
 
 
 # Deadlines / delivery dates
